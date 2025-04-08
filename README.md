@@ -1,4 +1,4 @@
-# Khmer Character Recognition Image Generator
+# Khmer Character Recognition 
 
 
 This repository contains a Python script that generates images with Khmer script labels, such as digits and characters, using random fonts and rotations. These images are saved as PNG files for use in training Khmer character recognition models. Additionally, the images are processed and stored in CSV format for machine learning purposes.
