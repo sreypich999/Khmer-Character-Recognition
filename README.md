@@ -12,6 +12,17 @@ This repository contains a Python script that generates images with Khmer script
 - **Output Directory**: All generated images are stored in the `labels/` directory.
 - **CSV Conversion**: The images are flattened and saved as a CSV file, where each row contains the label followed by 784 pixel values (for 28x28 images).
 
+
+
+Here are some generated images of Khmer characters:
+
+![Image 1])
+![Image 2](labels/2_1_3.png)
+![Image 3](labels/3_2_7.png)
+
+
+
+
 ## Requirements
 
 - Python 3.x
