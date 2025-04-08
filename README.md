@@ -29,15 +29,16 @@ Here are some generated images of Khmer characters:
 
 To use this Khmer Character Recognition Image Generator, you need the following Python packages:
 
-- **[Python 3.x](https://www.python.org/)**
-- **[Pillow](https://pillow.readthedocs.io/en/stable/)** – for image creation and manipulation
-- **[numpy](https://numpy.org/doc/stable/)** – for array operations
-- **[pandas](https://pandas.pydata.org/pandas-docs/stable/)** – for CSV manipulation
-- **[scikit-learn](https://scikit-learn.org/stable/)** – for machine learning (model training, evaluation)
-- **[imbalanced-learn](https://imbalanced-learn.org/stable/)** – for balancing the dataset using SMOTE
+- **[Python 3.x][python]** ![Python](https://img.shields.io/badge/Python-3.x-blue)
+- **[Pillow][pillow]** – for image creation and manipulation ![Pillow](https://img.shields.io/badge/Pillow-8.2.0-blue)
+- **[numpy][numpy]** – for array operations ![numpy](https://img.shields.io/badge/numpy-1.21.0-blue)
+- **[pandas][pandas]** – for CSV manipulation ![pandas](https://img.shields.io/badge/pandas-1.3.0-blue)
+- **[scikit-learn][scikit-learn]** – for machine learning (model training, evaluation) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.0-blue)
+- **[imbalanced-learn][imbalanced-learn]** – for balancing the dataset using SMOTE ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-0.8.0-blue)
 - **Built-in libraries**: os, csv, random, io, zipfile
 
 You can install the necessary libraries using the following command:
 
 ```bash
 pip install pillow numpy pandas scikit-learn imbalanced-learn
+
