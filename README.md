@@ -19,7 +19,7 @@ Here are some generated images of Khmer characters:
 ![Khmer Character 1](ញ_0_-1.png)
 
 ![Khmer Character 2](ក_18_2.png)
-![Khmer Character 3](images/3_2_7.png)
+![Khmer Character 3](គ_25_-2.png)
 
 
 
