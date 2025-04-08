@@ -27,13 +27,18 @@ Here are some generated images of Khmer characters:
 
 ## Requirements
 
-- Python 3.x
-- `Pillow` (for image creation and manipulation)
-- `numpy` (for array operations)
-- `pandas` (for CSV manipulation)
-- `os`, `csv`, `random`, `io` (standard Python libraries)
+To use this Khmer Character Recognition Image Generator, you need the following Python packages:
+
+- **Python 3.x**
+- **Pillow** – for image creation and manipulation
+- **numpy** – for array operations
+- **pandas** – for CSV manipulation
+- **scikit-learn** – for machine learning (model training, evaluation)
+- **imbalanced-learn** – for balancing the dataset using SMOTE
+- **Built-in libraries**: os, csv, random, io, zipfile
 
 You can install the necessary libraries using the following command:
 
 ```bash
-pip install pillow numpy pandas imbalanced-learn scikit-learn
+pip install pillow numpy pandas scikit-learn imbalanced-learn
+
