@@ -1,6 +1,6 @@
-# Khmer Script Label Image Generator
+# Khmer Character Recognition Image Generator
 
-This repository contains a Python script that generates images with Khmer script labels, such as digits and characters, using random fonts and rotations. These images are saved as PNG files for further use, such as training image recognition models.
+This repository contains a Python script that generates images with Khmer script labels, such as digits and characters, using random fonts and rotations. These images are saved as PNG files for use in training Khmer character recognition models.
 
 ## Features
 
@@ -20,6 +20,3 @@ To install the necessary libraries, you can run the following:
 
 ```bash
 pip install pillow
-
-
-
