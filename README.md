@@ -16,9 +16,9 @@ This repository contains a Python script that generates images with Khmer script
 
 Here are some generated images of Khmer characters:
 
-![Image 1])
-![Image 2](labels/2_1_3.png)
-![Image 3](labels/3_2_7.png)
+![Khmer Character 1](ញ_0_-1.png)
+![Khmer Character 2](images/2_1_3.png)
+![Khmer Character 3](images/3_2_7.png)
 
 
 
