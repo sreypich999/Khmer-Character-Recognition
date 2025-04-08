@@ -10,13 +10,4 @@ This repository contains a Python script that generates images with Khmer script
 - **Unique Image Filenames**: Each generated image is saved with a unique filename based on the label, font, and rotation angle to avoid overwriting.
 - **Output Directory**: All generated images are stored in the `labels/` directory.
 
-## Requirements
 
-- Python 3.x
-- `Pillow` (for image creation and manipulation)
-- `os`, `zipfile`, `random`, `io` (standard Python libraries)
-
-To install the necessary libraries, you can run the following:
-
-```bash
-pip install pillow
