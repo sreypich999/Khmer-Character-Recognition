@@ -8,7 +8,7 @@
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.0-blue)](https://scikit-learn.org/stable/)
 [![Imbalanced Learn](https://img.shields.io/badge/imbalanced--learn-0.8.0-blue)](https://imbalanced-learn.org/stable/)
 
-A Python-based dataset generator and image processor for Khmer character recognition tasks. This tool creates PNG images of Khmer script (characters and digits), applies font and rotation augmentations, and exports the dataset into CSV format for machine learning model training.
+A Python-based dataset generator and image processor for Khmer character recognition tasks. This tool creates PNG images of Khmer script (characters and digits), applies font and rotation augmentations, and exports the dataset into CSV format for model training.
 
 ---
 
@@ -23,7 +23,7 @@ A Python-based dataset generator and image processor for Khmer character recogni
 
 ---
 
-## 🖼️ Example Outputs
+## 🖼️  Outputs
 
 Here are some sample generated images of Khmer characters:
 
