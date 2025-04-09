@@ -1,4 +1,4 @@
-# 🇰🇭 Khmer Character Recognition
+#  Khmer Character Recognition
 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
